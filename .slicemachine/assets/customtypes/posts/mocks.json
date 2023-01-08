@@ -1,0 +1,74 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "man"
+  },
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "outer",
+    "type": "Text"
+  },
+  "subtitle": {
+    "__TYPE__": "FieldContent",
+    "value": "bus",
+    "type": "Text"
+  },
+  "author": {
+    "__TYPE__": "FieldContent",
+    "value": "birthday",
+    "type": "Text"
+  },
+  "banner": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da",
+      "width": 4000,
+      "height": 4000
+    },
+    "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da",
+    "width": 4000,
+    "height": 4000,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  },
+  "content": {
+    "__TYPE__": "GroupContentType",
+    "value": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "heading",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "fly",
+              "type": "Text"
+            }
+          ],
+          [
+            "body",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Reprehenderit eu esse deserunt commodo qui id cupidatat quis cupidatat incididunt amet eu id. Nulla ut ipsum quis qui consectetur magna magna in. Proident anim nisi exercitation."
+                  }
+                }
+              ]
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}
